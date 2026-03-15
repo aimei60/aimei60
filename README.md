@@ -1,4 +1,4 @@
-## Hi 👋 I am Aimei Li
+<h1 align="center">Hi 👋 I am Aimei Li</h1>
 
 Software Engineer focused on **full-stack development** and the **infrastructure** that supports it.
 
