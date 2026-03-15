@@ -7,7 +7,7 @@ I enjoy building reliable software, designing full-stack systems and solving pro
 ## Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) •
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend:**  
