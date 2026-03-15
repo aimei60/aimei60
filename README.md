@@ -14,8 +14,8 @@ I enjoy building reliable software, designing full-stack systems and solving pro
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
