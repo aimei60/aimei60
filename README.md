@@ -4,7 +4,7 @@ Software Engineer focused on **full-stack development** and the **infrastructure
 
 I enjoy building reliable software, designing full-stack systems and solving problems.
 
-### Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
