@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I am Aimei Li</h1>
 
-I build **full-stack applications** and the **infrastructure** that supports them, using **React**, **Node.js**, **FastAPI**, and **PostgreSQL**. **Securrity**, **maintainability** and **reliability** are at the heart of what I create, supported by **testing** to ensure applications behave correctly as they evolve.
+I build **full-stack applications** using **React**, **Node.js**, **FastAPI**, and **PostgreSQL**. **Security**, **maintainability** and **reliability** are at the heart of what I create, supported by **testing** to ensure applications behave correctly as they evolve.
 
 I also have experience with **CI/CD pipelines, Terraform,** and **AWS services** such as **S3** and **CloudFront** to manage infrastructure and automate deployments.
 
