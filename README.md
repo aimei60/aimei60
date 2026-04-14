@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋 I am Aimei Li</h1>
 
-I am a software engineer with experience building **full-stack** systems and the **infrastructure** that supports them; with **security** and **reliability** at the core of what I create.
-
-My work combines **full-stack** development with **infrastructure**, building applications using **React**, **Express**, **FastAPI**, and **PostgreSQL**. I focus on creating systems that are **secure, maintainable, and reliable** across the entire stack, and include **testing** to ensure applications behave correctly and remain reliable as they evolve.
+I build **full-stack applications** and the **infrastructure** that supports them, using **React**, **Node.js**, **FastAPI**, and **PostgreSQL**. **Securrity**, **maintainability** and **reliability** are at the heart of what I create, supported by **testing** to ensure applications behave correctly as they evolve.
 
 I also have experience with **CI/CD pipelines, Terraform,** and **AWS services** such as **S3** and **CloudFront** to manage infrastructure and automate deployments.
 
-I aim to continue building **secure, observable,** and **reliable** systems while continuously **learning** and **supporting** team members and colleagues along the way.
+I’m interested in building **secure**, **observable**, and **reliable** systems, and continuing to develop my skills across both application and infrastructure.
 
 ## Tech Stack
 
