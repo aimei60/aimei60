@@ -30,5 +30,5 @@ I’m interested in building **secure**, **observable**, and **reliable** system
 ![Terraform](https://img.shields.io/badge/terraform-623CE4?style=flat&logo=terraform&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
 
-**CI:**  
+**CI/CD:**  
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
